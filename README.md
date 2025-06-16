@@ -1,3 +1,10 @@
+### 🗓️ 미션 일정
+
+| 단계  | 내용        | 기간                      | PR 링크 |
+|-------|------------|---------------------------|---------|
+| Step1 |  | 2025.05.27 ~ 2025.06.03   | [PR](https://github.com/woowacourse/spring-roomescape-payment/pull/241) |
+| Step2 |  | 2025.06.03 ~ 2025.06.13   | [PR](https://github.com/woowacourse/spring-roomescape-payment/pull/296) |
+
 # 방탈출 예약
 
 ## 엔드포인트 정리
